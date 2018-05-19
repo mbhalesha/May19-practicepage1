@@ -3,5 +3,7 @@ function greeting() {
     var last = document.getElementById("lastName").value;
     var greeting = "Hi " + first + " " + last;
 
-    document.getElementById("hello").innerHTML = greeting;   
+    document.getElementById("hello").innerHTML = greeting;  
+    
+    //get commit - added greeting function
 }

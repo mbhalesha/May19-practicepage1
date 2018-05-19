@@ -5,5 +5,5 @@ function greeting() {
 
     document.getElementById("hello").innerHTML = greeting;  
     
-    //get commit - added greeting function
+    //git commit - added greeting function
 }
